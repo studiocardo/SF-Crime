@@ -7,8 +7,8 @@ This notebook displays bokeh plots that use GMap, which currently **do not play 
 
 This is the repository for the notebook, which contains the source code and the plots (some of them).  For best viewing experience, please:
 
-1. copy the url of this page
+1. copy the url of the notebook
 2. go to nbviewer.jupyter.org
 3. paste the URL in nbviewer.jupyter.org
 
-The notebook uses bokeh for all visual outputs (some of them are interactive), which can cause some problem for github.  So pls use nbviewer.jupyter.org.
+The notebook uses bokeh for all visual outputs (some of them are interactive), which can cause some problem for github (you have to reload the notebook).  So pls use nbviewer.jupyter.org.
